@@ -1,6 +1,4 @@
-import pygame, sys, random, math
-
-from sympy import Point
+import pygame, math
 
 pygame.init()
 
